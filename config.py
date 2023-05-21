@@ -47,7 +47,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/RohitXBot/RohitXMusic",
+    "https://github.com/AloneXBot/HeartlessXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -150,11 +150,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/6f540a835119a76ea7f7a.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/0f43b90d5634c3b34fd20.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/6f540a835119a76ea7f7a.jpg",
+    "https://te.legra.ph/file/0f43b90d5634c3b34fd20.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://telegra.ph/file/1dca3157eb1d637846d87.jpg"
