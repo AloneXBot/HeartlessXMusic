@@ -36,7 +36,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝗢𝘄𝗻𝗲𝗿 ✯", url=f"https://t.me/VIP_Boy_113"
+                text="✯ 𝗢𝘄𝗻𝗲𝗿 ✯", url=f"https://t.me/DSH_HEARTLESS_OP"
             ),
             InlineKeyboardButton(
                 text="✯ 𝗛𝗲𝗹𝗽 ✯", callback_data="settings_back_helper"
@@ -44,16 +44,16 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✯", url=f"https://t.me/vip_world_op",
+                text="✯ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✯", url=f"https://t.me/II_HEARTLESS_WORLD_II",
             ),
             InlineKeyboardButton(
-                text="✯ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✯", url=f"https://t.me/RED_DRAGON_CLAN",
+                text="✯ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✯", url=f"https://t.me/DSH_OFFICIAL_CLAN",
             )
         ],
         [
             InlineKeyboardButton(
                 text="✯ 𝗦𝗼𝘂𝗿𝗲𝗰 ✯",
-                url=f"https://github.com/RohitXBot/RohitXMusic",
+                url=f"https://github.com/AloneXBot/HeartlessXMusic",
             )
         ],
      ]
