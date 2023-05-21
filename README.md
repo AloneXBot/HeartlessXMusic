@@ -14,24 +14,24 @@
 
 
 <h2 align="center">
-    ──「 Rohit ✘ 」──
+    ──「 Heartless ✘ 」──
     
 
 ★ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+Rohit+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+Heartless+🎭">
 <p align="center">
-  <img src="https://te.legra.ph/file/6f540a835119a76ea7f7a.jpg">
+  <img src="https://te.legra.ph/file/0f43b90d5634c3b34fd20.jpg">
 </p>
 
 **𝘽𝙊𝙏 ➣ [𝐑𝐨𝐡𝐢𝐭 ✘ 𝐌𝐮𝐬𝐢𝐜](https://t.me/RohitXMusicBot)**
 
 <p align="center">
-<a href="https://github.com/RohitXBot/RohitXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/RohitXBot/RohitXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/RohitXBot/RohitXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/AloneXBot/HeartlessXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AloneXBot/HeartlessXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AloneXBot/HeartlessXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/RohitXBot/RohitXMusic/commits/AloneXBot"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/AloneXBot/HeartlessXMusic/commits/AloneXBot"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -46,7 +46,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RohitXBot/RohitXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AloneXBot/HeartlessXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 
